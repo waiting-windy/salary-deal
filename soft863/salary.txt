@@ -1,0 +1,30 @@
+﻿1,工程师,北京闪银奇异科技有限公司,1年以上,14.4-21.6万元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+2,工程师,北京闪银奇异科技有限公司,1年以上,14.4-21.6万元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+3,工程师,北京闪银奇异科技有限公司,1年以上,14.4-21.6万元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+6,etl工程师,上海中软华腾软件系统有限公司,3-5年,10000-20000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+7,etl工程师,上海中软华腾软件系统有限公司,3-5年,10000-20000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+8,etl工程师,上海中软华腾软件系统有限公司,3-5年,10000-20000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+11,etl开发,上海中软华腾软件系统有限公司,3-5年,12000-24000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+12,etl开发,上海中软华腾软件系统有限公司,3-5年,12000-24000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+13,etl开发,上海中软华腾软件系统有限公司,3-5年,12000-24000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+16,etl架构师,上海中软华腾软件系统有限公司,5-10年,20000-30000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+17,etl架构师,上海中软华腾软件系统有限公司,5-10年,20000-30000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+18,etl架构师,上海中软华腾软件系统有限公司,5-10年,20000-30000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+21,初级,高伟达软件股份有限公司,不限经验,10000+/月,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+22,初级,高伟达软件股份有限公司,不限经验,10000-14999/月,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+23,初级,高伟达软件股份有限公司,不限经验,10000-14999/月,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+26,大数据,广联达科技股份有限公司,3-5年,150000-300000/年,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+27,大数据,广联达科技股份有限公司,3-5年,150000-300000/年,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+28,大数据,广联达科技股份有限公司,3-5年,150000-300000/年,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+31,中高级,高伟达软件股份有限公司,不限经验,0.8-1万/月,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+32,中高级,高伟达软件股份有限公司,不限经验,0.8-1万/月,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+33,中高级,高伟达软件股份有限公司,不限经验,0.8-1万/月,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+36,etl,上海中软华腾软件系统有限公司,3-5年,10000+/月,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+37,etl,上海中软华腾软件系统有限公司,3-5年,10000-20000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+38,etl,上海中软华腾软件系统有限公司,3-5年,10000-20000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+41,开发工程师,北京亿心宜行汽车技术开发服务有限公司,3-5年,15000-20000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+42,开发工程师,北京亿心宜行汽车技术开发服务有限公司,3-5年,15000-20000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+43,开发工程师,北京亿心宜行汽车技术开发服务有限公司,3-5年,15000-20000元,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+46,开发 oracle数据库开发工程师,软通动力信息技术（集团）有限公司,0-2年,1-1.5万/月,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+47,开发 oracle数据库开发工程师,软通动力信息技术（集团）有限公司,0-2年,1-1.5万/月,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
+48,开发 oracle数据库开发工程师,软通动力信息技术（集团）有限公司,0-2年,1-1.5万/月,https://www.jobui.com/jobs?jobKw=ETL&cityKw=北京&n=1,北京,2
